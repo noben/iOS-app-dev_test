@@ -4,4 +4,4 @@ The original project is downloaded from https://github.com/samuraipapa/4phyiscsB
 
 For the first part, I added 6 more squares onto the original jointing with 5 more joints.
 	
-For the second part, I added a snake consists of 7 squares, jointed with 'SKPhysicsJointLimit' and 'SKPhysicsJointPin'.
+For the second part, I added a snake consists of 7 squares, jointed with 'SKPhysicsJointLimit' and 'SKPhysicsJointSpring'.
